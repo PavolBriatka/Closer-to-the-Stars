@@ -21,11 +21,11 @@ some of the images showed are subject to copyright and thus, they should not be 
 <tbody>
 <tr>
 <td width="33%">
-  <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/grid_layout.png"></td>
+  <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/01_phone_portrait.png"></td>
 <td width="33%">
-  <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/detail1.png"></td>  
+  <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/01_phone_portrait.png"></td>  
   <td width="33%">
-    <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/detail2.png"></td>
+    <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/01_phone_portrait.png"></td>
 </tr>
   <tr>
   <td width="33%"><p>Grid Layout</p></td>
@@ -34,9 +34,9 @@ some of the images showed are subject to copyright and thus, they should not be 
   </tr>
 <tr>
 <td width="33%">
-    <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/detail3.png"></td>
+    <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/01_phone_portrait.png"></td>
   <td width="33%">
-    <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/offline_detail.png"></td>
+    <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/01_phone_portrait.png"></td>
 </tr>
   <tr>
   <td width="33%"><p>Horizontal list of trailers</p></td>
