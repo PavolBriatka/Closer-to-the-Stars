@@ -16,3 +16,4 @@ code.google.com/apis/console</a> (YouTube Data API). After that, please copy and
 and paste it to the <i>ReceiveMasterPictureTask.java</i> and <i>GalleryFragment.java</i> files instead of "DEMO_KEY".</p>
 <p>DISCLAIMER: I'm not responsible for the content showed in the app as it is fetched from external resources. Users should be aware that 
 some of the images showed are subject to copyright and thus, they should not be re-used for commercial purposes or modified.</p>
+<h1>Screenshots</h1>
