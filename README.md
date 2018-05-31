@@ -23,24 +23,54 @@ some of the images showed are subject to copyright and thus, they should not be 
 <td width="33%">
   <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/01_phone_portrait.png"></td>
 <td width="33%">
-  <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/01_phone_portrait.png"></td>  
+  <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/03_phone_portrait_video_placeholder.png"></td>  
   <td width="33%">
-    <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/01_phone_portrait.png"></td>
+    <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/04_detail_page_default.png"></td>
 </tr>
   <tr>
-  <td width="33%"><p>Grid Layout</p></td>
-    <td width="33%"><p>Plot section</p></td>
-      <td width="33%"><p>Reviews section</p></td>
+  <td width="33%"><p>Mobile phone portrait layout</p></td>
+    <td width="33%"><p>Main view with the video placeholder picture</p></td>
+      <td width="33%"><p>Default detail page</p></td>
   </tr>
 <tr>
 <td width="33%">
-    <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/01_phone_portrait.png"></td>
+  <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/05_bottom_sheet_description.png"></td>
+<td width="33%">
+  <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/06_fullscreen_mode.png"></td>  
   <td width="33%">
-    <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/01_phone_portrait.png"></td>
+    <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/07_video_portrait_detail.png"></td>
 </tr>
   <tr>
-  <td width="33%"><p>Horizontal list of trailers</p></td>
-    <td width="33%"><p>Detail of a movie in the offline database</p></td>
+  <td width="33%"><p>Description showed via bottom sheet</p></td>
+    <td width="33%"><p>Fullscreen mode/p></td>
+      <td width="33%"><p>Detail page for the video content</p></td>
+  </tr>
+  <tr>
+<td width="33%">
+  <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/08_tablet_portrait.png"></td>
+<td width="33%">
+  <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/10_shared_preferences_fragment.png"></td>  
+  <td width="33%">
+    <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/11_user_guide_activity.png"></td>
+</tr>
+  <tr>
+  <td width="33%"><p>Tablet portrait layout</p></td>
+    <td width="33%"><p>Shared preferences fragment</p></td>
+      <td width="33%"><p>User guide activity</p></td>
   </tr>
 </tbody>
+</table>
+<table>
+<tbody>
+     <tr>
+<td width="50%">
+  <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/02_phone_landscape.png"></td>
+<td width="50%">
+  <img src="https://raw.githubusercontent.com/PavolBriatka/Closer-to-the-Stars/master/screenshots/09_tablet_landscape.png"></td>  
+</tr>
+  <tr>
+  <td width="50%"><p>Mobile phone landscape layout</p></td>
+    <td width="50%"><p>Tablet landscape layout</p></td>
+  </tr>
+  </tbody>
 </table>
