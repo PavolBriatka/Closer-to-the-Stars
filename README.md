@@ -42,7 +42,7 @@ some of the images showed are subject to copyright and thus, they should not be 
 </tr>
   <tr>
   <td width="33%"><p>Description showed via bottom sheet</p></td>
-    <td width="33%"><p>Fullscreen mode/p></td>
+    <td width="33%"><p>Fullscreen mode</p></td>
       <td width="33%"><p>Detail page for the video content</p></td>
   </tr>
   <tr>
