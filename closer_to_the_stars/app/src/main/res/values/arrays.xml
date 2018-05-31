@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_loading_option_labels">
+        <item>@string/random_pictures_label</item>
+        <item>@string/latest_pictures_label</item>
+    </array>
+
+    <array name="pref_loading_option_values">
+        <item>@string/random_pictures_label</item>
+        <item>@string/latest_pictures_label</item>
+    </array>
+</resources>

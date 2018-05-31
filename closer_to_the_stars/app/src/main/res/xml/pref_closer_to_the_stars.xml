@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:defaultValue="@string/random_pictures_value"
+        android:entries="@array/pref_loading_option_labels"
+        android:entryValues="@array/pref_loading_option_values"
+        android:key="@string/pref_loading_key"
+        android:title="@string/pref_loading_label"/>
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_size_default_value"
+        android:key="@string/pref_size_key"
+        android:title="@string/pref_size_label" />
+
+
+</PreferenceScreen>
