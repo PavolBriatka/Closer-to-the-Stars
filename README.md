@@ -17,3 +17,30 @@ and paste it to the <i>ReceiveMasterPictureTask.java</i> and <i>GalleryFragment.
 <p>DISCLAIMER: I'm not responsible for the content showed in the app as it is fetched from external resources. Users should be aware that 
 some of the images showed are subject to copyright and thus, they should not be re-used for commercial purposes or modified.</p>
 <h1>Screenshots</h1>
+<table style="font-size:14px;">
+<tbody>
+<tr>
+<td width="33%">
+  <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/grid_layout.png"></td>
+<td width="33%">
+  <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/detail1.png"></td>  
+  <td width="33%">
+    <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/detail2.png"></td>
+</tr>
+  <tr>
+  <td width="33%"><p>Grid Layout</p></td>
+    <td width="33%"><p>Plot section</p></td>
+      <td width="33%"><p>Reviews section</p></td>
+  </tr>
+<tr>
+<td width="33%">
+    <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/detail3.png"></td>
+  <td width="33%">
+    <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/offline_detail.png"></td>
+</tr>
+  <tr>
+  <td width="33%"><p>Horizontal list of trailers</p></td>
+    <td width="33%"><p>Detail of a movie in the offline database</p></td>
+  </tr>
+</tbody>
+</table>
