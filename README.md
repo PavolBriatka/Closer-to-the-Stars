@@ -1,4 +1,4 @@
-# Closer-to-the-Stars
+<h1>Closer to the Stars</h1>
 <p><b>Keywords:</b> AsyncTask, Interface, Fragments, responsive design, Recyclerview, YouTube API, bottom sheet, download feature, share feature, connectivity checks, runtime permissions, menus, shared preferences</p>
 <p>This Android application is designed for all astronomy and astrophysics enthusiasts or simply for all people who like to observe 
 the beauty of the infinite universe that surrounds us.</p><p>The application communicates with the NASA APOD (Astronomy Picture Of the Day)
