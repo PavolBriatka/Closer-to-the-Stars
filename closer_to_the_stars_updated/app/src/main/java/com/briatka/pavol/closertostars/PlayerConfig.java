@@ -8,5 +8,5 @@ public class PlayerConfig {
 
     PlayerConfig() {}
 
-    public static final String API_KEY = "AIzaSyB2Qo96T4nPiOnfv2alwUM64xNkiR0o1pI";
+    public static final String API_KEY = "{your API key}";
 }
