@@ -35,7 +35,7 @@ public class GalleryFragment extends Fragment implements SharedPreferences.OnSha
     private String nasaLatestPictures =
             "https://api.nasa.gov/planetary/apod?api_key={api_key}&start_date={start_date}&end_date={end_date}";
     private static final String NASA_API_KEY =
-            "D68zDm7H0OwHgnWX5rvoHXsdVktVnyFvN0p0nFAJ";
+            "DEMO_KEY";
     private static final long DAY_CONSTANT = 86400000;
 
     private static final String TASK_IS_RUNNING_KEY = "gallery_task_state";
