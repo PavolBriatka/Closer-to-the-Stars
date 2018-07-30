@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.briatka.pavol.closertostars.DetailActivity"
+    >
+
+    <item
+        android:id="@+id/action_description"
+        android:title="@string/action_description"
+        android:icon="@drawable/baseline_description_white_24"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_download"
+        android:title="@string/action_download"
+        android:icon="@drawable/ic_file_download_white_24dp"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_share"
+        android:title="@string/action_share"
+        android:icon="@drawable/ic_share_white_24dp"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
