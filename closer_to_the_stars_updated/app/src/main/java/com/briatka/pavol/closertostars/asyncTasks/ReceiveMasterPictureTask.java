@@ -24,7 +24,7 @@ public class ReceiveMasterPictureTask extends AsyncTask<String, Void, ItemModel>
     private Context mContext;
     private MasterPictureAsyncTaskCompleteListener<ItemModel> mListener;
     private static final String NASA_URL =
-            "https://api.nasa.gov/planetary/apod?api_key=D68zDm7H0OwHgnWX5rvoHXsdVktVnyFvN0p0nFAJ";
+            "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY";
 
 
     public ReceiveMasterPictureTask(Context context,
