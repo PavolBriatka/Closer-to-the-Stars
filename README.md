@@ -1,5 +1,6 @@
 <h1>Closer to the Stars</h1>
 <p><b>Keywords:</b> AsyncTask, Interface, Fragments, Recyclerview, Parcelable, responsive design, YouTube API, bottom sheet, download feature, share feature, connectivity checks, runtime permissions, menus, shared preferences</p>
+<p>This application has been released to production on GooglePlay Store: https://play.google.com/store/apps/details?id=com.briatka.pavol.closertostars</p>
 <p>This Android application is designed for all astronomy and astrophysics enthusiasts or simply for all people who like to observe 
 the beauty of the infinite universe that surrounds us.</p><p>The application communicates with the NASA APOD (Astronomy Picture Of the Day)
 database and brings the user a new image (or video) every day along with its description. Moreover, the application shows an image gallery
