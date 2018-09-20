@@ -1,4 +1,5 @@
 <h1>Closer to the Stars</h1>
+<p>Available in <a href="https://play.google.com/store/apps/details?id=com.briatka.pavol.closertostars">Google Play Store</a></p>
 <p><b>Keywords:</b> AsyncTask, Interface, Fragments, Recyclerview, Parcelable, responsive design, YouTube API, bottom sheet, download feature, share feature, connectivity checks, runtime permissions, menus, shared preferences</p>
 <p>This application has been released to production on GooglePlay Store:<br>https://play.google.com/store/apps/details?id=com.briatka.pavol.closertostars</p>
 <p>This Android application is designed for all astronomy and astrophysics enthusiasts or simply for all people who like to observe 
